@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+~$*
+
+# Material pesado de las entregas (no lo necesita la app)
+presentacion/
+documentos/
+entrega1/
